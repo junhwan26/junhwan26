@@ -2,7 +2,6 @@
 
 ## Junhwan 
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunhwan26&count_bg=%23B2B2B2&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/junhwan26@korea.ac.kr-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:junhwan26@korea.ac.kr) &nbsp; [![instagram Badge](https://img.shields.io/badge/@jxnhwxn26-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/jxnhwxn26/) &nbsp; [![Kaggle Badge](https://img.shields.io/badge/Junhwan26-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/junhwan26) &nbsp;
 
 </br>
